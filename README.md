@@ -16,4 +16,4 @@ Problemde aranacak uzayın tam orta noktasına bak
 Şayet bakılan değer arana değerden küçükse arama işlemini problem uzayının büyük elemanlarında devam ettir.
 Şayet bakılan aralık 1 veya daha küçükse aranan değer bulunamadı olarak bitir.
 
-`Kaynak` : <http://bilgisayarkavramlari.sadievrenseker.com/2009/11/23/arama-algoritmalari-search-algorithms/>
+`Döküm Kaynağı` : <http://bilgisayarkavramlari.sadievrenseker.com/2009/11/23/arama-algoritmalari-search-algorithms/>
